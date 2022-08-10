@@ -1,0 +1,50 @@
+.left-banner{
+	height: 600px;
+        width: 100%;
+}
+
+/*.primary-icon{
+	height: 70px;
+        width: 150%;
+	padding: 0px;
+	margin: 0px;
+}*/
+
+.form-inline{
+	margin-right: 20px;
+	padding-right: 20px;
+}
+
+.button{
+	color: #616161;
+}
+
+/*.book-imgs{
+	height : 400px;
+}*/
+
+.btn{
+	margin-right: 10px;
+}
+
+.right-banner{
+	height: 400px;
+}
+
+a .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: relative;
+  z-index: 1;
+}
+
+a:hover .tooltiptext {
+  visibility: visible;
+}
